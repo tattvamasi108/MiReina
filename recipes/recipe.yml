@@ -43,6 +43,7 @@ modules:
       install:
         - com.brave.Browser
         - org.gnome.Loupe
+        - io.freetubeapp.FreeTube
       remove:
         - org.gnome.eog
     user: {} # Also add Flathub user repo, but no user packages
